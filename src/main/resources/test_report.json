@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2023-12-01",
+    "asin": "B07V4GK1GK",
+    "sales": 100,
+    "revenue": 1000.0
+  },
+  {
+    "date": "2023-12-02",
+    "asin": "B07V4GK1GK",
+    "sales": 120,
+    "revenue": 1200.0
+  },
+  {
+    "date": "2023-12-03",
+    "asin": "B07V4GK1GK",
+    "sales": 110,
+    "revenue": 1100.0
+  }
+]
